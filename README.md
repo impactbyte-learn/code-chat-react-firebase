@@ -1,5 +1,7 @@
 # React Firebase Chat Example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/impactbyte-learn/code-chat-react-firebase.svg)](https://greenkeeper.io/)
+
 * Found in [The Road to learn React](https://roadtoreact.com/)
 
 ## Features
